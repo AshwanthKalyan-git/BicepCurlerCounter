@@ -27,16 +27,8 @@ Angle Calculation: The script calculates the angle between the shoulder, elbow, 
 Counting Logic:
 
 If the elbow angle exceeds 160°, the stage is set to "down."
-
 If the elbow angle drops below 40° and the stage is "down," a repetition is counted, and the stage changes to "up."
-
 Visualization: OpenCV overlays the counters, angles, and stages on the video feed.
-
-Customization
-
-Adjust the angle thresholds (160° for "down" and 40° for "up") in the code to suit different exercises.
-
-Modify the display colors and text positions in the OpenCV rendering logic.
 
 Acknowledgments
 
