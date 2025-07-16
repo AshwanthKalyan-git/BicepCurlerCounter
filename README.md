@@ -16,8 +16,6 @@ Stage Display: Indicates whether the arm is in the "up" or "down" phase of the c
 
 Interactive Visualization: Displays the current angle, counters, and stages directly on the video feed.
 
-README.md : Documentation for the project.
-
 How It Works
 
 Pose Detection: Mediapipe’s Pose solution identifies body landmarks in real-time.
